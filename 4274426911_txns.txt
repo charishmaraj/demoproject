@@ -1,0 +1,7 @@
+22-Mar-2022          Deposit             500 €
+23-Mar-2022          Withdraw             100 €
+23-Mar-2022          Withdraw             100 €
+23-Mar-2022          Withdraw              50 €
+24-Mar-2022          Withdraw             500 €
+24-Mar-2022          Withdraw             200 €
+24-Mar-2022          Deposit             500 €

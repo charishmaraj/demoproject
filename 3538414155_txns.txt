@@ -1,0 +1,19 @@
+Deposit: 100Deposit: 200Deposit: 400withdraw: 10Deposit: 100Deposit: 500withdraw: 50withdraw: 20Deposit: 50Deposit: 100Deposit: 50Deposit: 10Deposit: 20Deposit: 20015-Mar-2022Deposit:200€
+15-Mar-2022withdraw: 50€
+15-Mar-2022Deposit:200€
+15-Mar-2022withdraw: 50€
+15-Mar-2022Deposit: 100€
+15-Mar-2022withdraw: 50€
+15-Mar-2022         Deposit: 100€
+15-Mar-2022         withdraw: 100€
+16-Mar-2022         , Deposit:                                      200 +€+
+16-Mar-2022         withdraw: 100€
+16-Mar-2022          Deposit:        100 €
+16-Mar-2022          Deposit:        200 €
+16-Mar-2022          Deposit              50 €
+16-Mar-2022          Withdraw             200 €
+23-Mar-2022          Withdraw             300 €
+23-Mar-2022          Withdraw            1000 €
+24-Mar-2022          Withdraw            1500 €
+26-Mar-2022          Withdraw            1500 €
+26-Mar-2022          Deposit         1000000 €

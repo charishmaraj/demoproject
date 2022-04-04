@@ -1,0 +1,6 @@
+malle,mallegmail.com,3538414155,YES,harshamalle,
+charishma,cherrygmail.com,1016511273,NO,charishma,
+vihana,vihanagmail.com,3441534131,YES,vihanamalle,
+harsha,harshagmail.com,2731196532,YES,mallefamily,
+sri,sriharshagmail.com,4274426911,NO,sriharsha,
+peetla,peetlagmail.com,3846645125,YES,peetlacherry,
