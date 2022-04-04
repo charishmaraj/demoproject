@@ -9,6 +9,9 @@ l = []
 choose_option = ''
 bank_menu = '' 
 
+
+
+
 with open("account_detail.txt","r") as f:
     for file in f:
         s = file.split(",")
